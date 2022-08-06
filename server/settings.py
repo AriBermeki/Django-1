@@ -30,7 +30,7 @@ SECRET_KEY = str(os.urandom(5000 * 80))
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','karin-ari-project.Heroku.com']
+ALLOWED_HOSTS = ['mysytem.herokuapp.com']
 
 
 # Application definition
